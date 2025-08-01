@@ -1,0 +1,3 @@
+My_Plan
+- I really want to deepen my interest in data science
+- Learn python, sql, and R languages
